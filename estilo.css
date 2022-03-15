@@ -1,0 +1,41 @@
+body {
+	background-color: black;
+	font-family: "Roboto Mono", monospace;
+	color: white;
+
+}
+
+#conteudo {
+	text-align: center;
+
+}
+
+#titulo {
+	margin-bottom: 5px;
+}
+
+#subtitulo {
+	margin-top: 5px;
+}
+
+.imersaodev {
+	margin-bottom: 20px;
+}
+
+input {
+	padding: 5px;
+}
+
+button {
+	margin-top: 50px;
+}
+
+.bgalura {
+	margin-top: 50px;
+}
+
+
+
+
+
+
